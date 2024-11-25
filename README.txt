@@ -2,7 +2,7 @@ In order to run everything properly make sure all files are in the same director
 To run/view all files:
     Excel
     Jupyter
-    Any text editior
+    Any text editor
 Follow these steps to run a Jupyter Notebook on your computer:
 Prerequisites:
     Ensure Python is installed on your system. You can download it from the official Python website at https://www.python.org/.
